@@ -1015,7 +1015,7 @@ const MenuPage: React.FC<{ lang: Lang; setPage: (page: string) => void }> = ({ l
       price: 35,
       priceWithKetchup: 40,
       description: "Three singaras. The ultimate hunger killer.",
-      image: "https://images.unsplash.com/photo-1541592106381-b31e9674c36d?auto=format&fit=crop&w=600&q=80",
+      image: "https://images.unsplash.com/photo-1615569502947-3f3ae10d4869?auto=format&fit=crop&w=600&q=80",
       variant: "Triple",
       popular: false
     },
